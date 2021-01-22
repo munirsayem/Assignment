@@ -80,5 +80,5 @@ var result = megaFriend(names);
 console.log("highest value is: ",result);
 
 
-// Finish
+// Finish.................................
 
