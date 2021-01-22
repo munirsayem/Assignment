@@ -65,10 +65,10 @@ console.log(total);
 
 //problem-4..........
 
-function megaFriend(names){
+function megaFriend(names) {
 var max = names[0];
-for(i= 0; i<names.length; i++){
-    var string = names[i];
+for(i= 0; i<names.length; i++) {
+    var string = names [i];
     if(string>max){
         max = string;
     }
